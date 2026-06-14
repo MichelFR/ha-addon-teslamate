@@ -1,8 +1,8 @@
 {
   "name": "TeslaMate",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "slug": "teslamate",
-  "description": "A self-hosted data logger for your Tesla. (TeslaMate 4.0.0)",
+  "description": "A self-hosted data logger for your Tesla. (TeslaMate 4.0.1)",
   "url": "https://github.com/MichelFR/ha-addon-teslamate",
   "arch": [
     "aarch64",
